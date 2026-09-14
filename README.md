@@ -1,4 +1,4 @@
-```markdown
+
 # Multimodal Cancer PAM50 MIL
 
 Multimodal deep learning for PAM50 breast cancer subtype prediction using **TCGA-BRCA** gene expression and whole-slide pathology images. The pipeline combines genomics and histopathology via attention-based multiple-instance learning (MIL) and intermediate fusion, with Grad-CAM visualizations for model interpretability.
