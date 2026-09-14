@@ -1,0 +1,21 @@
+# Core data handling
+numpy
+pandas
+pyarrow
+
+# Machine learning / metrics
+scikit-learn
+
+# Plotting
+matplotlib
+
+# HTTP / API downloads
+requests
+
+# Deep learning
+torch
+torchvision
+
+# Whole-slide image + patch handling
+openslide-python
+Pillow
