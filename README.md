@@ -35,11 +35,7 @@ The pipeline is designed to run in **Google Colab**, using Google Drive for pers
 
 ## Results
 
-| Model | Accuracy | Macro F1 | Weighted F1 |
-|-------|----------|----------|-------------|
-| Attention Fusion (genomics + pathology) | **0.75** | 0.63 | 0.74 |
-| Gated-Attention MIL (pathology only) | 0.53 | 0.21 | 0.44 |
-| Majority-class baseline (LumA) | 0.533 | — | — |
+
 
 - **Attention Fusion** achieves 75% accuracy, significantly above the majority-class baseline.
 - **Pathology-only MIL** performs near baseline, likely due to limited patches per slide and frozen backbone.
