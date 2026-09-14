@@ -168,27 +168,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-## Acknowledgements
 
-- The Cancer Genome Atlas (TCGA) Research Network.
-- cBioPortal for providing curated clinical data.
-- OpenSlide for whole-slide image handling.
-- PyTorch and torchvision for deep learning tools.
-- Ilse et al. (2018) for the gated attention MIL architecture.
-
----
-
-## Citation
-
-If you use this code in your work, please cite the TCGA-BRCA project and the original attention MIL paper:
-
-```
-Ilse, M., Tomczak, J. M., & Welling, M. (2018). Attention-based Deep Multiple Instance Learning. ICML.
-```
-
----
-
-## Contact
-
-For questions or issues, please open an issue on GitHub.
-```
